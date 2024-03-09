@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ブログスタート"
+date:   2024-01-01 12:00:00 +0900
+image:  kuroneko_pad.png
+tags:   
+---
+ブログ初めました。
+これから適当な投稿をしていきます。
+
+
+
+ブログの構成メモ
+* jekyll + github pages
