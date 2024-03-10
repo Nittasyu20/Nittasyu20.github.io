@@ -2,7 +2,7 @@
 layout: post
 title:  "Github Pages + Jekyll でブログを運営するメリットとデメリット"
 date:   2024-01-01 12:00:00 +0900
-image:  programming.jpg
+image: programming_1.jpg
 tags: programming  
 ---
 
