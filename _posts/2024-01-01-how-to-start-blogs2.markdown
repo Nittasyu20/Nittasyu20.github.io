@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github Pages + Jekyll でブログの始め方"
+title:  "Github Pages + Jekyll ブログを運営する方法"
 date:   2024-01-01 12:00:00 +0900
 image: programming_2.jpg
 tags: programming  
