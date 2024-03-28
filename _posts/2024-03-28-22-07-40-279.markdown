@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "NHS スコットランド、ランサムウェア攻撃者が患者データを漏洩したことを確認 - Help Net Security"
+date:   2024-03-28 22:07:40 +0900
+tags: setuirynews 
+---
+
+# NHS スコットランド、ランサムウェア攻撃者が患者データを漏洩したことを確認 - Help Net Security
+
+
+
+# NHS Scotland confirms ransomware attackers leaked patients' data - Help Net Security
+
+[https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wMy8yOC9uaHMtc2NvdGxhbmQtcmFuc29td2FyZS_SAQA?oc=5](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wMy8yOC9uaHMtc2NvdGxhbmQtcmFuc29td2FyZS_SAQA?oc=5)
+
