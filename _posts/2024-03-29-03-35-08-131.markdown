@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "大規模なハッキングが AI サーバーを攻撃し、Ray フレームワークの脆弱性を悪用 - ReadWrite"
+date:   2024-03-29 03:35:08 +0900
+tags: setuirynews 
+---
+
+# 大規模なハッキングが AI サーバーを攻撃し、Ray フレームワークの脆弱性を悪用 - ReadWrite
+
+
+
+# Massive hack hits AI servers, exploits Ray framework vulnerability - ReadWrite
+
+[https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcmVhZHdyaXRlLmNvbS9tYXNzaXZlLWhhY2staGl0cy1haS1zZXJ2ZXJzLWV4cGxvaXRzLXJheS1mcmFtZXdvcmstdnVsbmVyYWJpbGl0eS_SAQA?oc=5](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcmVhZHdyaXRlLmNvbS9tYXNzaXZlLWhhY2staGl0cy1haS1zZXJ2ZXJzLWV4cGxvaXRzLXJheS1mcmFtZXdvcmstdnVsbmVyYWJpbGl0eS_SAQA?oc=5)
+

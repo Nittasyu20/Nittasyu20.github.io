@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "フィンランド、議会サイバー攻撃で中国ハッカー集団APT31を非難"
+date:   2024-03-29 03:34:26 +0900
+tags: setuirynews 
+---
+
+# フィンランド、議会サイバー攻撃で中国ハッカー集団APT31を非難
+
+フィンランドのポリイシ氏は、2020年の同国議会へのサイバー攻撃に関与した国家支援グループ「APT31」に関係する中国人容疑者を特定し、複雑な捜査が続いている。
+
+# Finland Blames Chinese Hacking Group APT31 for Parliament Cyber Attack
+
+[https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html](https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html)
+

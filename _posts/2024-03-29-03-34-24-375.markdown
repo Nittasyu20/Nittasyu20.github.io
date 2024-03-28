@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "JetBrainsはRapid7のスパッツ後に修正された26の「セキュリティ問題」について沈黙を続ける"
+date:   2024-03-29 03:34:24 +0900
+tags: setuirynews 
+---
+
+# JetBrainsはRapid7のスパッツ後に修正された26の「セキュリティ問題」について沈黙を続ける
+
+JetBrains TeamCity ユーザーは、詳細が提供されていないにもかかわらず、26 件の不特定のセキュリティ問題に対処するために最新バージョン (2024.03) に更新することが推奨されています。 JetBrains は、古いバージョンのユーザー保護に関する懸念から詳細を公開していません。ただし、このアップデートには、セキュリティを強化するために、クラウド ユーザー向けの既存の自動アップデートと同様に、オンプレミス ユーザー向けの重要なセキュリティ アップデートの半自動ダウンロードが含まれています。
+
+# JetBrains keeps mum on 26 'security problems' fixed after Rapid7 spat
+
+[https://go.theregister.com/feed/www.theregister.com/2024/03/28/jetbrains_fixes_26_security_problems/](https://go.theregister.com/feed/www.theregister.com/2024/03/28/jetbrains_fixes_26_security_problems/)
+
