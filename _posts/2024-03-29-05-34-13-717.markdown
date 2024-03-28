@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "VR ヘッドセットはデータをハッキングに対して脆弱なままにする可能性があると研究者が警告 - Tech Times"
+date:   2024-03-29 05:34:13 +0900
+tags: setuirynews 
+---
+
+# VR ヘッドセットはデータをハッキングに対して脆弱なままにする可能性があると研究者が警告 - Tech Times
+
+
+
+# Researchers Warn VR Headsets Can Leave Your Data Vulnerable to Hacking - Tech Times
+
+[https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRlY2h0aW1lcy5jb20vYXJ0aWNsZXMvMzAzMDQxLzIwMjQwMzI4L3Jlc2VhcmNoZXJzLXdhcm4tdnItaGVhZHNldHMtbGVhdmUtZGF0YS12dWxuZXJhYmxlLWhhY2tpbmcuaHRt0gF1aHR0cHM6Ly93d3cudGVjaHRpbWVzLmNvbS9hbXAvYXJ0aWNsZXMvMzAzMDQxLzIwMjQwMzI4L3Jlc2VhcmNoZXJzLXdhcm4tdnItaGVhZHNldHMtbGVhdmUtZGF0YS12dWxuZXJhYmxlLWhhY2tpbmcuaHRt?oc=5](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRlY2h0aW1lcy5jb20vYXJ0aWNsZXMvMzAzMDQxLzIwMjQwMzI4L3Jlc2VhcmNoZXJzLXdhcm4tdnItaGVhZHNldHMtbGVhdmUtZGF0YS12dWxuZXJhYmxlLWhhY2tpbmcuaHRt0gF1aHR0cHM6Ly93d3cudGVjaHRpbWVzLmNvbS9hbXAvYXJ0aWNsZXMvMzAzMDQxLzIwMjQwMzI4L3Jlc2VhcmNoZXJzLXdhcm4tdnItaGVhZHNldHMtbGVhdmUtZGF0YS12dWxuZXJhYmxlLWhhY2tpbmcuaHRt?oc=5)
+

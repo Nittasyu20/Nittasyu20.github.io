@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーはすでにこの Microsoft SharePoint の脆弱性を攻撃しているため、今すぐパッチを適用してください - TechRadar"
+date:   2024-03-29 05:34:17 +0900
+tags: setuirynews 
+---
+
+# ハッカーはすでにこの Microsoft SharePoint の脆弱性を攻撃しているため、今すぐパッチを適用してください - TechRadar
+
+
+
+# Hackers are already attacking this Microsoft SharePoint vulnerability, so patch now - TechRadar
+
+[https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L2hhY2tlcnMtYXJlLWFscmVhZHktYXR0YWNraW5nLXRoaXMtbWljcm9zb2Z0LXNoYXJlcG9pbnQtdnVsbmVyYWJpbGl0eS1zby1wYXRjaC1ub3fSAQA?oc=5](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L2hhY2tlcnMtYXJlLWFscmVhZHktYXR0YWNraW5nLXRoaXMtbWljcm9zb2Z0LXNoYXJlcG9pbnQtdnVsbmVyYWJpbGl0eS1zby1wYXRjaC1ub3fSAQA?oc=5)
+
