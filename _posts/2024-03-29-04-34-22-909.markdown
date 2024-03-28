@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "DinodasRAT の Linux バージョンが複数の国でサイバー攻撃で発見される"
+date:   2024-03-29 04:34:22 +0900
+tags: setuirynews 
+---
+
+# DinodasRAT の Linux バージョンが複数の国でサイバー攻撃で発見される
+
+カスペルスキーは、中国、台湾、トルコ、ウズベキスタンの Red Hat および Ubuntu ディストリビューションをターゲットとする Linux バージョンの DinodasRAT バックドア (V10) を検出しました。 C++ ベースのマルウェアは、攻撃者にリモート アクセス、コマンド実行、機密データ収集機能を提供します。これらの機能は、多くの場合、中国と結びついた脅威アクターに関連付けられています。 2021 年に初めて検出された Linux バージョンは、暗号化と回避技術を使用して永続性を確立し、スパイ活動を実行します。
+
+# Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries
+
+[https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html](https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html)
+
