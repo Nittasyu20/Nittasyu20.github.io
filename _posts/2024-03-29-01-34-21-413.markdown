@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "RCS と iMessage を利用して検出を回避する Darcula フィッシング ネットワーク"
+date:   2024-03-29 01:34:21 +0900
+tags: setuirynews 
+---
+
+# RCS と iMessage を利用して検出を回避する Darcula フィッシング ネットワーク
+
+Darcula は、100 か国以上の組織を対象とした洗練された Phishing-as-a-Service プラットフォームであり、偽造ドメインの広大なネットワークを使用して運用されています。 Darcula は、iMessage と RCS を利用して SMS ファイアウォールをバイパスし、スミッシング メッセージを使用して、郵便サービスや金融機関などの正規の組織になりすましたフィッシング サイトを配布します。このプラットフォームはカスタマイズ可能なフィッシング テンプレートを提供し、テイクダウンを回避する検出防止メカニズムをサポートします。これらの攻撃に対抗するための Google と Apple の取り組みにもかかわらず、Darcula は進化を続けており、オンライン セキュリティに重大な脅威をもたらしています。
+
+# Darcula Phishing Network Leveraging RCS and iMessage to Evade Detection
+
+[https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html](https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html)
+
