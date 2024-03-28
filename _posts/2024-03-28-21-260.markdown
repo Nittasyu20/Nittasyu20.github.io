@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Telegram は、あなたの番号を使用して OTP を送信する代わりにプレミアム サブスクリプションを提供します"
+date:   2024-03-28 21:26:48 +0900
+tags: setuirynews 
+ ---
+
+# Telegram は、あなたの番号を使用して OTP を送信する代わりにプレミアム サブスクリプションを提供します
+
+プライバシーへの懸念を表明したにもかかわらず、MIT の学生は 2017 年にインセンティブを求めてプライベートの電子メール アドレスを容易に共有し、「プライバシーのパラドックス」が浮き彫りになりました。 Telegram の P2PL プログラムは、OTP 配信用の電話番号と引き換えにプレミアム メンバーシップを提供しますが、ユーザーが OTP 受信者に連絡したり、その逆に連絡したりする可能性があるため、プライバシー リスクがあり、スパムの増加につながる可能性があります。特に、Meta がユーザーの行動に関する洞察を得るために Snapchat やその他のプラットフォームからのトラフィックを傍受したとされる疑惑を考慮すると、認証に電話番号を使用するサービスのプライバシーへの影響を認識することが重要です。
+
+# Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs
+
+https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html
+
