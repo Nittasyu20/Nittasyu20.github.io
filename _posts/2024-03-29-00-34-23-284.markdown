@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "新しいウェビナー: OPSWAT と F5 によるアプリケーション セキュリティの盲点の回避"
+date:   2024-03-29 00:34:23 +0900
+tags: setuirynews 
+---
+
+# 新しいウェビナー: OPSWAT と F5 によるアプリケーション セキュリティの盲点の回避
+
+組織は、進化する脅威を考慮してサイバーセキュリティ対策を常に監視し、強化する必要があります。セキュリティの盲点を排除するには、組織は継続的な監視、多層防御戦略、脅威インテリジェンス、および定期的なセキュリティ監査を実装する必要があります。包括的なアプリケーション セキュリティ戦略は、組織が規制を遵守し、さまざまな環境にわたって Web アプリケーションを保護するのに役立ちます。このウェビナーでは、現在のセキュリティの課題、効果的な防御アプローチ、死角を排除するためのベスト プラクティスについて説明します。
+
+# New Webinar: Avoiding Application Security Blind Spots with OPSWAT and F5
+
+[https://thehackernews.com/2024/03/new-webinar-avoiding-application.html](https://thehackernews.com/2024/03/new-webinar-avoiding-application.html)
+

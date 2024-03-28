@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ray AI フレームワークを標的とした進行中の攻撃で数千台のサーバーがハッキングされる - Ars Technica"
+date:   2024-03-29 00:35:47 +0900
+tags: setuirynews 
+---
+
+# Ray AI フレームワークを標的とした進行中の攻撃で数千台のサーバーがハッキングされる - Ars Technica
+
+
+
+# Thousands of servers hacked in ongoing attack targeting Ray AI framework - Ars Technica
+
+[https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NlY3VyaXR5LzIwMjQvMDMvdGhvdXNhbmRzLW9mLXNlcnZlcnMtaGFja2VkLWluLW9uZ29pbmctYXR0YWNrLXRhcmdldGluZy1yYXktYWktZnJhbWV3b3JrL9IBAA?oc=5](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NlY3VyaXR5LzIwMjQvMDMvdGhvdXNhbmRzLW9mLXNlcnZlcnMtaGFja2VkLWluLW9uZ29pbmctYXR0YWNrLXRhcmdldGluZy1yYXktYWktZnJhbWV3b3JrL9IBAA?oc=5)
+

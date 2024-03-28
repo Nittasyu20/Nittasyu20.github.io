@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "VR ヘッドセットは「インセプション攻撃」に対して脆弱 — ハッカーがユーザーの現実感を妨害し、データを盗む可能性がある - Livescience.com"
+date:   2024-03-29 00:35:11 +0900
+tags: setuirynews 
+---
+
+# VR ヘッドセットは「インセプション攻撃」に対して脆弱 — ハッカーがユーザーの現実感を妨害し、データを盗む可能性がある - Livescience.com
+
+
+
+# VR headsets vulnerable to 'Inception attacks' — where hackers can mess with your sense of reality and steal your data - Livescience.com
+
+[https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5saXZlc2NpZW5jZS5jb20vdGVjaG5vbG9neS92aXJ0dWFsLXJlYWxpdHkvdnItaGVhZHNldHMtdnVsbmVyYWJsZS10by1pbmNlcHRpb24tYXR0YWNrcy13aGVyZS1oYWNrZXJzLWNhbi1tZXNzLXdpdGgteW91ci1zZW5zZS1vZi1yZWFsaXR5LWFuZC1zdGVhbC15b3VyLWRhdGHSAQA?oc=5](https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5saXZlc2NpZW5jZS5jb20vdGVjaG5vbG9neS92aXJ0dWFsLXJlYWxpdHkvdnItaGVhZHNldHMtdnVsbmVyYWJsZS10by1pbmNlcHRpb24tYXR0YWNrcy13aGVyZS1oYWNrZXJzLWNhbi1tZXNzLXdpdGgteW91ci1zZW5zZS1vZi1yZWFsaXR5LWFuZC1zdGVhbC15b3VyLWRhdGHSAQA?oc=5)
+

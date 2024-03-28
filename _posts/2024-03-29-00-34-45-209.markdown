@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ASCII アートを使用した社内 AI チャットボットのハッキングはセキュリティ チームにとって最悪の悪夢 - VentureBeat"
+date:   2024-03-29 00:34:45 +0900
+tags: setuirynews 
+---
+
+# ASCII アートを使用した社内 AI チャットボットのハッキングはセキュリティ チームにとって最悪の悪夢 - VentureBeat
+
+
+
+# Hacking internal AI chatbots with ASCII art is a security team's worst nightmare - VentureBeat
+
+[https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdmVudHVyZWJlYXQuY29tL3NlY3VyaXR5L2hhY2tpbmctaW50ZXJuYWwtYWktY2hhdGJvdHMtd2l0aC1hc2NpaS1hcnQtaXMtYS1zZWN1cml0eS10ZWFtcy13b3JzdC1uaWdodG1hcmUv0gEA?oc=5](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdmVudHVyZWJlYXQuY29tL3NlY3VyaXR5L2hhY2tpbmctaW50ZXJuYWwtYWktY2hhdGJvdHMtd2l0aC1hc2NpaS1hcnQtaXMtYS1zZWN1cml0eS10ZWFtcy13b3JzdC1uaWdodG1hcmUv0gEA?oc=5)
+

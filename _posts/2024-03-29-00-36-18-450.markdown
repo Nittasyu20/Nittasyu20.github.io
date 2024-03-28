@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ray フレームワークの欠陥がハッカーに悪用されサーバーに侵入 - TechRadar"
+date:   2024-03-29 00:36:18 +0900
+tags: setuirynews 
+---
+
+# Ray フレームワークの欠陥がハッカーに悪用されサーバーに侵入 - TechRadar
+
+
+
+# Ray framework flaw exploited for hackers to breach servers - TechRadar
+
+[https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L3JheS1mcmFtZXdvcmstZmxhdy1leHBsb2l0ZWQtZm9yLWhhY2tlcnMtdG8tYnJlYWNoLXNlcnZlcnPSAQA?oc=5](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L3JheS1mcmFtZXdvcmstZmxhdy1leHBsb2l0ZWQtZm9yLWhhY2tlcnMtdG8tYnJlYWNoLXNlcnZlcnPSAQA?oc=5)
+
