@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Nvidia の新生 ChatRTX ボットにセキュリティ バグのパッチが適用"
+date:   2024-03-29 02:34:16 +0900
+tags: setuirynews 
+---
+
+# Nvidia の新生 ChatRTX ボットにセキュリティ バグのパッチが適用
+
+Nvidia の ChatRTX AI アプリは、2 つのセキュリティ脆弱性 CVE-2024-0082 および CVE-2024-0083 に対するパッチを受け取りました。これらの欠陥には重大度が高および中と評価されており、特権昇格やリモートでのコード実行が含まれます。これらの脆弱性を軽減するには、アプリを再インストールしてバージョン 0.2 に更新することをお勧めします。
+
+# Nvidia's newborn ChatRTX bot patched for security bugs
+
+[https://go.theregister.com/feed/www.theregister.com/2024/03/28/nvidia_chatrtx_security_flaws/](https://go.theregister.com/feed/www.theregister.com/2024/03/28/nvidia_chatrtx_security_flaws/)
+
