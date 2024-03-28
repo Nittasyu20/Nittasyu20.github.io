@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "新しい ZenHammer 攻撃は AMD CPU 上の Rowhammer 防御をバイパスします"
+date:   2024-03-28 21:49:45 +0900
+tags: setuirynews 
+---
+
+# 新しい ZenHammer 攻撃は AMD CPU 上の Rowhammer 防御をバイパスします
+
+チューリッヒ工科大学の研究者は、AMD の Target Row Refresh (TRR) 軽減策をバイパスする RowHammer DRAM 攻撃の亜種である ZenHammer を開発しました。これにより、Zen 2、Zen 3、さらには DDR5 システムに対しても成功することができます。 ZenHammer は、リバース エンジニアリングされた DRAM アドレス機能と、同期およびスケジューリング技術の改善により成功し、DDR5 チップ上でビット フリップをトリガーする最初の攻撃となりました。
+
+# New ZenHammer Attack Bypasses Rowhammer Defenses on AMD CPUs
+
+https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html
+

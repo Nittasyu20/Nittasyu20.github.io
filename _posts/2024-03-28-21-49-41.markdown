@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Canonical、Snap Store詐欺事件を受けて暗号通貨詐欺を取り締まる"
+date:   2024-03-28 21:49:41 +0900
+tags: setuirynews 
+---
+
+# Canonical、Snap Store詐欺事件を受けて暗号通貨詐欺を取り締まる
+
+Snap ストアの悪意のある暗号通貨アプリに対抗するため、Canonical はアプリの侵害により重大な経済的損失が発生したため、すべての新しいスナップ名登録について一時的に手動審査に切り替える予定です。
+
+# Canonical cracks down on crypto cons following Snap Store scam spree
+
+https://go.theregister.com/feed/www.theregister.com/2024/03/28/canonical_snap_store_scams/
+

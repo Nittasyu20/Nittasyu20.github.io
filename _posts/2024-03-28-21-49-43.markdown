@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "開発入札を落札し北朝鮮に外注したとして日本の幹部らが逮捕"
+date:   2024-03-28 21:49:43 +0900
+tags: setuirynews 
+---
+
+# 開発入札を落札し北朝鮮に外注したとして日本の幹部らが逮捕
+
+韓国人のパク・ヒョンイル氏（ITZ社長）と日本人の蓑毛敏郎氏（ロバスト社の社長）の2人の幹部が、顧客の知らないうちにIT業務を北朝鮮の技術者にアウトソーシングし、制裁に違反し、ロバスト社から不審な送金を受け取った容疑で日本で逮捕された。北朝鮮へ。彼らはまた、虚偽の電子公証記録の提出や失業手当詐欺の罪にも問われている。
+
+# Execs in Japan busted for winning dev bids then outsourcing to North Koreans
+
+https://go.theregister.com/feed/www.theregister.com/2024/03/28/japan_nk_arrests/
+

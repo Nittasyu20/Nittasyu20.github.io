@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AI はソフトウェア パッケージを幻覚させ、開発者はそれをダウンロードします – たとえマルウェアに汚染されている可能性がある場合でも"
+date:   2024-03-28 21:49:42 +0900
+tags: setuirynews 
+---
+
+# AI はソフトウェア パッケージを幻覚させ、開発者はそれをダウンロードします – たとえマルウェアに汚染されている可能性がある場合でも
+
+生成 AI モデルは、コードのアドバイス中にソフトウェア パッケージを発明することがよくあり、これらの幻覚的なパッケージ名は、さまざまな AI モデルや言語にわたって存続する可能性があります。実験によると、GPT-4 応答の 24.2% に幻覚を起こしたパッケージ名が含まれており、そのうち 19.6% が反復的なものでした。 Go や .Net でエコシステムをパッケージ化すると悪用は制限されますが、Python や Node.js システムへの攻撃は容易になります。偽の「huggingface-cli」パッケージを使用したマルウェアの概念実証実験により、15,000 を超える本物のダウンロードが行われ、Alibaba の GraphTranslator のインストール手順で参照されました。リスクは、悪意のある攻撃者が AI が作成したパッケージ名を使用して悪意のあるコードを配布することにあり、AI が生成したコードや推奨事項に依存する場合には注意が必要であることが強調されています。
+
+# AI hallucinates software packages and devs download them – even if potentially poisoned with malware
+
+https://go.theregister.com/feed/www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  ""
+date:   2024-03-28 21:49:51 +0900
+tags: setuirynews 
+---
+
+# 
+
+
+
+# Avoiding Security Theatre With Tigera, New Relic And JFrog - Forbes
+
+https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvanVzdGlud2FycmVuLzIwMjQvMDMvMjgvYXZvaWRpbmctc2VjdXJpdHktdGhlYXRyZS13aXRoLXRpZ2VyYS1uZXctcmVsaWMtYW5kLWpmcm9nL9IBc2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvanVzdGlud2FycmVuLzIwMjQvMDMvMjgvYXZvaWRpbmctc2VjdXJpdHktdGhlYXRyZS13aXRoLXRpZ2VyYS1uZXctcmVsaWMtYW5kLWpmcm9nL2FtcC8?oc=5
+

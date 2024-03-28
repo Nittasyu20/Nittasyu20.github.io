@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Telegram は、あなたの番号を使用して OTP を送信する代わりにプレミアム サブスクリプションを提供します"
+date:   2024-03-28 21:49:47 +0900
+tags: setuirynews 
+---
+
+# Telegram は、あなたの番号を使用して OTP を送信する代わりにプレミアム サブスクリプションを提供します
+
+調査では、人々がプライバシーよりもインセンティブを優先する「プライバシーのパラドックス」が明らかになった。 Telegram の新機能により、ユーザーは自分の電話番号をプレミアム メンバーシップと交換できるため、スパムの増加、プライバシー リスク、見知らぬ人との接触の可能性についての懸念が生じています。この展開はまた、メタ社が「中間者」アプローチを通じて競合プラットフォームのトラフィックを傍受した疑いを巡る法的問題も浮き彫りにしており、ユーザーのプライバシーとデータセキュリティに対する懸念を引き起こしている。
+
+# Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs
+
+https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html
+
