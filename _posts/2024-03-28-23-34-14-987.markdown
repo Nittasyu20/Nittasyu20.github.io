@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "米国の重要インフラのサイバー攻撃報告規則は現実に少しずつ近づいている"
+date:   2024-03-28 23:34:14 +0900
+tags: setuirynews 
+---
+
+# 米国の重要インフラのサイバー攻撃報告規則は現実に少しずつ近づいている
+
+米国サイバーセキュリティ・インフラ庁（CISA）は、重要インフラ分野の組織に対し、重大なサイバーインシデントを72時間以内に報告することを義務付ける規則を提案した。身代金の支払いは 24 時間以内に報告する必要があります。このルールは、迅速な対応、情報共有、傾向分析を促進することを目的としています。中小企業には免除が適用されます。この提案は、法律が成立するまでの 60 日間、パブリックコメントが募集されます。コメント期間中に、コンプライアンスの負担の増加や OT セキュリティ担当者の不足に関する業界の懸念が生じる可能性があります。
+
+# US critical infrastructure cyberattack reporting rules inch closer to reality
+
+[https://go.theregister.com/feed/www.theregister.com/2024/03/28/critical_infrastructure_cyberattack_reporting/](https://go.theregister.com/feed/www.theregister.com/2024/03/28/critical_infrastructure_cyberattack_reporting/)
+

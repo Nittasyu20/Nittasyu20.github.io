@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーが武器化した仮想ハー​​ドディスク ファイルを使用して Remcos RAT を配信 - サイバーセキュリティニュース"
+date:   2024-03-28 23:34:35 +0900
+tags: setuirynews 
+---
+
+# ハッカーが武器化した仮想ハー​​ドディスク ファイルを使用して Remcos RAT を配信 - サイバーセキュリティニュース
+
+
+
+# Hackers Using Weaponized Virtual Hard Disk Files to Deliver Remcos RAT - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2RlbGl2ZXItcmVtY29zLXJhdC_SATVodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS9kZWxpdmVyLXJlbWNvcy1yYXQvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2RlbGl2ZXItcmVtY29zLXJhdC_SATVodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS9kZWxpdmVyLXJlbWNvcy1yYXQvYW1wLw?oc=5)
+

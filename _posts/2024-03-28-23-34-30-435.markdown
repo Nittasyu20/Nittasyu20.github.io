@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Apple ID「プッシュ爆弾」攻撃、Appleユーザーを標的にパスワードを盗む - サイバーセキュリティニュース"
+date:   2024-03-28 23:34:30 +0900
+tags: setuirynews 
+---
+
+# Apple ID「プッシュ爆弾」攻撃、Appleユーザーを標的にパスワードを盗む - サイバーセキュリティニュース
+
+
+
+# Apple ID “push bombing” Attack Targeting Apple Users to Steal passwords - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2FwcGxlLWlkLXB1c2gtYm9tYmluZy1hdHRhY2sv0gE_aHR0cHM6Ly9jeWJlcnNlY3VyaXR5bmV3cy5jb20vYXBwbGUtaWQtcHVzaC1ib21iaW5nLWF0dGFjay9hbXAv?oc=5](https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2FwcGxlLWlkLXB1c2gtYm9tYmluZy1hdHRhY2sv0gE_aHR0cHM6Ly9jeWJlcnNlY3VyaXR5bmV3cy5jb20vYXBwbGUtaWQtcHVzaC1ib21iaW5nLWF0dGFjay9hbXAv?oc=5)
+
