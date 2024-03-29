@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "複数の Splunk の脆弱性、攻撃者が SPL セーフガードをバイパス: 今すぐパッチを適用 - Cyber​​securityNews"
+date:   2024-03-29 16:34:22 +0900
+tags: setuirynews 
+---
+
+# 複数の Splunk の脆弱性、攻撃者が SPL セーフガードをバイパス: 今すぐパッチを適用 - Cyber​​securityNews
+
+
+
+# Multiple Splunk Vulnerabilities Attackers Bypass SPL Safeguards : Patch Now - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3NwbHVuay12dWxuZXJhYmlsaXRpZXMtc3BsLXNhZmVndWFyZHMv0gFIaHR0cHM6Ly9jeWJlcnNlY3VyaXR5bmV3cy5jb20vc3BsdW5rLXZ1bG5lcmFiaWxpdGllcy1zcGwtc2FmZWd1YXJkcy9hbXAv?oc=5](https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3NwbHVuay12dWxuZXJhYmlsaXRpZXMtc3BsLXNhZmVndWFyZHMv0gFIaHR0cHM6Ly9jeWJlcnNlY3VyaXR5bmV3cy5jb20vc3BsdW5rLXZ1bG5lcmFiaWxpdGllcy1zcGwtc2FmZWd1YXJkcy9hbXAv?oc=5)
+

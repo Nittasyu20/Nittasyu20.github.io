@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "開発者をターゲットにした悪意のあるパッケージのアップロードが急増する中、PyPI がサインアップを停止"
+date:   2024-03-29 16:34:14 +0900
+tags: setuirynews 
+---
+
+# 開発者をターゲットにした悪意のあるパッケージのアップロードが急増する中、PyPI がサインアップを停止
+
+ソフトウェア リポジトリである PyPI は、タイポスクワッティング キャンペーンで脅威アクターによってアップロードされた悪意のあるプロジェクトの流入のため、新規ユーザー登録を一時停止しました。これらの悪意のあるパッケージは、機密データを盗み、永続化メカニズムをインストールすることで開発者をターゲットにしていました。 Checkmarx と Mend.io は独自にこの脅威を確認しており、これには 500 を超える不正なパッケージが含まれていました。このマルウェアはスティーラーとして機能し、機密情報を盗み出し、Windows システム上で永続化を達成しようとします。このインシデントは、ソフトウェア サプライ チェーン攻撃のリスクが増大していることと、サードパーティ コンポーネントを精査する際の警戒の必要性を浮き彫りにしています。
+
+# PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers
+
+[https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html](https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html)
+
