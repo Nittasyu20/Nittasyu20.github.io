@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Google、Androidファームウェア以降を強化するカーネルアドレスサニタイザーを公開 - GBHackers"
+date:   2024-03-29 22:34:32 +0900
+tags: setuirynews 
+---
+
+# Google、Androidファームウェア以降を強化するカーネルアドレスサニタイザーを公開 - GBHackers
+
+
+
+# Google Revealed Kernel Address Sanitizer To Harden Android Firmware And Beyond - GBHackers
+
+[https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9nb29nbGUta2FzYW4tYW5kcm9pZC1maXJtd2FyZS1oYXJkZW5pbmcv0gFCaHR0cHM6Ly9nYmhhY2tlcnMuY29tL2dvb2dsZS1rYXNhbi1hbmRyb2lkLWZpcm13YXJlLWhhcmRlbmluZy9hbXAv?oc=5](https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9nb29nbGUta2FzYW4tYW5kcm9pZC1maXJtd2FyZS1oYXJkZW5pbmcv0gFCaHR0cHM6Ly9nYmhhY2tlcnMuY29tL2dvb2dsZS1rYXNhbi1hbmRyb2lkLWZpcm13YXJlLWhhcmRlbmluZy9hbXAv?oc=5)
+

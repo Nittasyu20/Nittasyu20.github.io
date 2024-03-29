@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "自動侵入テストの黄金時代が到来 - ハッカーニュース"
+date:   2024-03-29 22:34:35 +0900
+tags: setuirynews 
+---
+
+# 自動侵入テストの黄金時代が到来 - ハッカーニュース
+
+
+
+# The Golden Age of Automated Penetration Testing is Here - The Hacker News
+
+[https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wMy90aGUtZ29sZGVuLWFnZS1vZi1hdXRvbWF0ZWQtcGVuZXRyYXRpb24uaHRtbNIBAA?oc=5](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wMy90aGUtZ29sZGVuLWFnZS1vZi1hdXRvbWF0ZWQtcGVuZXRyYXRpb24uaHRtbNIBAA?oc=5)
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "WarzoneRAT が FBI 押収後に復活: LNK および HTA ファイルの利用 - GBHackers"
+date:   2024-03-29 22:34:30 +0900
+tags: setuirynews 
+---
+
+# WarzoneRAT が FBI 押収後に復活: LNK および HTA ファイルの利用 - GBHackers
+
+
+
+# WarzoneRAT Returns Post FBI Seizure: Utilizing LNK & HTA File - GBHackers
+
+[https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS93YXJ6b25lcmF0LXJldHVybnMtcG9zdC_SATJodHRwczovL2diaGFja2Vycy5jb20vd2Fyem9uZXJhdC1yZXR1cm5zLXBvc3QvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS93YXJ6b25lcmF0LXJldHVybnMtcG9zdC_SATJodHRwczovL2diaGFja2Vycy5jb20vd2Fyem9uZXJhdC1yZXR1cm5zLXBvc3QvYW1wLw?oc=5)
+
