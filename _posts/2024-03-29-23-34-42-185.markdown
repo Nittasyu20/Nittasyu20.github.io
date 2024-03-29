@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "フリッパーの制限はセキュリティに対する責任ゼロのアプローチである：自動車ハッキングに対するカナダ政府の対応 - EFF"
+date:   2024-03-29 23:34:42 +0900
+tags: setuirynews 
+---
+
+# フリッパーの制限はセキュリティに対する責任ゼロのアプローチである：自動車ハッキングに対するカナダ政府の対応 - EFF
+
+
+
+# Restricting Flipper is a Zero Accountability Approach to Security: Canadian Government Response to Car Hacking - EFF
+
+[https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmVmZi5vcmcvZGVlcGxpbmtzLzIwMjQvMDMvcmVzdHJpY3RpbmctZmxpcHBlci16ZXJvLWFjY291bnRhYmlsaXR5LWFwcHJvYWNoLXNlY3VyaXR5LWNhbmFkaWFuLWdvdmVybm1lbnTSAQA?oc=5](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmVmZi5vcmcvZGVlcGxpbmtzLzIwMjQvMDMvcmVzdHJpY3RpbmctZmxpcHBlci16ZXJvLWFjY291bnRhYmlsaXR5LWFwcHJvYWNoLXNlY3VyaXR5LWNhbmFkaWFuLWdvdmVybm1lbnTSAQA?oc=5)
+

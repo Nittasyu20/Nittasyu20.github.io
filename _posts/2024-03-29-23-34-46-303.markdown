@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CrowdStrike と Rubrik がデータ安全性に関する戦略的連携について説明 |セキュリティ ニュース - SecurityInformed"
+date:   2024-03-29 23:34:46 +0900
+tags: setuirynews 
+---
+
+# CrowdStrike と Rubrik がデータ安全性に関する戦略的連携について説明 |セキュリティ ニュース - SecurityInformed
+
+
+
+# CrowdStrike And Rubrik Briefed A Strategic Coalition To Data Safety | Security News - SecurityInformed
+
+[https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5zZWN1cml0eWluZm9ybWVkLmNvbS9uZXdzL2luZHVzdHJ5LXBpb25lZXJzLWNyb3dkc3RyaWtlLXJ1YnJpay1hbm5vdW5jZS1zdHJhdGVnaWMtY28tMTU2Mjc0MDYxOS1nYS1jby0xNjEyNDUxNTAyLWdhLWNvLTE2MTQ2MDk2NDctZ2EtY28tMTcxMTY5MTk3Ny1nYS4xNzExNjkxMDgxLmh0bWzSAQA?oc=5](https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5zZWN1cml0eWluZm9ybWVkLmNvbS9uZXdzL2luZHVzdHJ5LXBpb25lZXJzLWNyb3dkc3RyaWtlLXJ1YnJpay1hbm5vdW5jZS1zdHJhdGVnaWMtY28tMTU2Mjc0MDYxOS1nYS1jby0xNjEyNDUxNTAyLWdhLWNvLTE2MTQ2MDk2NDctZ2EtY28tMTcxMTY5MTk3Ny1nYS4xNzExNjkxMDgxLmh0bWzSAQA?oc=5)
+

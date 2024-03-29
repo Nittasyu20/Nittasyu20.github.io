@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CISA から学んだ教訓 - Ivanti サイバー攻撃 - 2024 - サイバーセキュリティニュース"
+date:   2024-03-29 23:34:44 +0900
+tags: setuirynews 
+---
+
+# CISA から学んだ教訓 - Ivanti サイバー攻撃 - 2024 - サイバーセキュリティニュース
+
+
+
+# Lessons Learned from the CISA - Ivanti Cyberattack - 2024 - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2xlc3NvbnMtbGVhcm5lZC1mcm9tLXRoZS1jaXNhLWl2YW50aS1jeWJlcmF0dGFjay0yMDI0L9IBWGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2xlc3NvbnMtbGVhcm5lZC1mcm9tLXRoZS1jaXNhLWl2YW50aS1jeWJlcmF0dGFjay0yMDI0L2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2xlc3NvbnMtbGVhcm5lZC1mcm9tLXRoZS1jaXNhLWl2YW50aS1jeWJlcmF0dGFjay0yMDI0L9IBWGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2xlc3NvbnMtbGVhcm5lZC1mcm9tLXRoZS1jaXNhLWl2YW50aS1jeWJlcmF0dGFjay0yMDI0L2FtcC8?oc=5)
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "TheMoon ボットネットが再浮上、EoL デバイスを悪用して犯罪者代理を強化"
+date:   2024-03-29 23:34:13 +0900
+tags: setuirynews 
+---
+
+# TheMoon ボットネットが再浮上、EoL デバイスを悪用して犯罪者代理を強化
+
+TheMoon として知られる休眠ボットネットが再浮上し、耐用年数が終了した SOHO ルーターや IoT デバイスに感染しています。このボットネットは、Faceless と呼ばれる悪意のあるプロキシ サービスをフィードし、これにより、脅威アクターが身元を隠し、パスワード スプレー、データ引き出し、マルウェア操作などの活動に従事できるようになります。 TheMoon の復活は、サポートされていない脆弱なデバイスによってもたらされる潜在的なリスクを示し、IoT ネットワークを保護することの重要性を強調しています。
+
+# TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy
+
+[https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html](https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html)
+
