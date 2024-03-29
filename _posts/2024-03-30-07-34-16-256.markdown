@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CISAとRed Hat、Linuxディストリビューションに影響を与えるサプライチェーンの侵害について警告 - CRN"
+date:   2024-03-30 07:34:16 +0900
+tags: setuirynews 
+---
+
+# CISAとRed Hat、Linuxディストリビューションに影響を与えるサプライチェーンの侵害について警告 - CRN
+
+
+
+# CISA, Red Hat Warn About Supply Chain Compromise Affecting Linux Distributions - CRN
+
+[https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9zZWN1cml0eS8yMDI0L2Npc2EtcmVkLWhhdC13YXJuLWFib3V0LXN1cHBseS1jaGFpbi1jb21wcm9taXNlLWFmZmVjdGluZy1saW51eC1kaXN0cmlidXRpb25z0gEA?oc=5](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9zZWN1cml0eS8yMDI0L2Npc2EtcmVkLWhhdC13YXJuLWFib3V0LXN1cHBseS1jaGFpbi1jb21wcm9taXNlLWFmZmVjdGluZy1saW51eC1kaXN0cmlidXRpb25z0gEA?oc=5)
+
