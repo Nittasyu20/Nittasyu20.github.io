@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CISA が新しいサイバーインシデント報告規則を開始 - Infosecurity Magazine"
+date:   2024-03-30 00:34:26 +0900
+tags: setuirynews 
+---
+
+# CISA が新しいサイバーインシデント報告規則を開始 - Infosecurity Magazine
+
+
+
+# CISA Launches New Cyber Incident Reporting Rules - Infosecurity Magazine
+
+[https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmluZm9zZWN1cml0eS1tYWdhemluZS5jb20vbmV3cy9jaXNhLXVwZGF0ZS1jaXJjaWEtdXMtZGVmZW5zZS_SAQA?oc=5](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmluZm9zZWN1cml0eS1tYWdhemluZS5jb20vbmV3cy9jaXNhLXVwZGF0ZS1jaXJjaWEtdXMtZGVmZW5zZS_SAQA?oc=5)
+

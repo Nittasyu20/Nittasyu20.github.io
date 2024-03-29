@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "その他のニュース: 航空会社のプライバシー審査、SEC の SolarWinds ハック調査、Apple MFA 爆破事件 - SecurityWeek"
+date:   2024-03-30 00:34:27 +0900
+tags: setuirynews 
+---
+
+# その他のニュース: 航空会社のプライバシー審査、SEC の SolarWinds ハック調査、Apple MFA 爆破事件 - SecurityWeek
+
+
+
+# In Other News: Airline Privacy Review, SEC’s SolarWinds Hack Probe, Apple MFA Bombing - SecurityWeek
+
+[https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vaW4tb3RoZXItbmV3cy1haXJsaW5lLXByaXZhY3ktcmV2aWV3LXNlY3Mtc29sYXJ3aW5kcy1oYWNrLXByb2JlLWFwcGxlLW1mYS1ib21iaW5nL9IBc2h0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vaW4tb3RoZXItbmV3cy1haXJsaW5lLXByaXZhY3ktcmV2aWV3LXNlY3Mtc29sYXJ3aW5kcy1oYWNrLXByb2JlLWFwcGxlLW1mYS1ib21iaW5nL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vaW4tb3RoZXItbmV3cy1haXJsaW5lLXByaXZhY3ktcmV2aWV3LXNlY3Mtc29sYXJ3aW5kcy1oYWNrLXByb2JlLWFwcGxlLW1mYS1ib21iaW5nL9IBc2h0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vaW4tb3RoZXItbmV3cy1haXJsaW5lLXByaXZhY3ktcmV2aWV3LXNlY3Mtc29sYXJ3aW5kcy1oYWNrLXByb2JlLWFwcGxlLW1mYS1ib21iaW5nL2FtcC8?oc=5)
+
