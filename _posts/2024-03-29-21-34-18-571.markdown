@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "GitLab のセキュリティ欠陥により攻撃者は悪意のあるスクリプトを挿入できる：今すぐパッチを適用 - Cyber​​securityNews"
+date:   2024-03-29 21:34:18 +0900
+tags: setuirynews 
+---
+
+# GitLab のセキュリティ欠陥により攻撃者は悪意のあるスクリプトを挿入できる：今すぐパッチを適用 - Cyber​​securityNews
+
+
+
+# GitLab Security Flaw Let Attackers Inject Malicious Scripts: Patch Now - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dpdGxhYi1zZWN1cml0eS1mbGF3LW1hbGljaW91cy1zY3JpcHRzL9IBSWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dpdGxhYi1zZWN1cml0eS1mbGF3LW1hbGljaW91cy1zY3JpcHRzL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dpdGxhYi1zZWN1cml0eS1mbGF3LW1hbGljaW91cy1zY3JpcHRzL9IBSWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dpdGxhYi1zZWN1cml0eS1mbGF3LW1hbGljaW91cy1zY3JpcHRzL2FtcC8?oc=5)
+

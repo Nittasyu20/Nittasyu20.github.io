@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Linux の新たなバグにより、ユーザーのパスワード漏洩やクリップボードのハイジャックが発生する可能性がある"
+date:   2024-03-29 21:34:13 +0900
+tags: setuirynews 
+---
+
+# Linux の新たなバグにより、ユーザーのパスワード漏洩やクリップボードのハイジャックが発生する可能性がある
+
+特定の Linux ディストリビューション (Ubuntu 22.04 および Debian Bookworm) の util-linux の「wall」コマンドの脆弱​​性 (CVE-2024-28085) により、権限のないユーザーがパスワードを漏洩したり、クリップボードを変更したりすることが可能になります。これはエスケープ シーケンスの不適切な処理が原因であり、mesg が有効で、wall に setgid 権限がある場合に悪用される可能性があります。この問題は、util-linux バージョン 2.40 で解決されました。
+
+# New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking
+
+[https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html](https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html)
+
