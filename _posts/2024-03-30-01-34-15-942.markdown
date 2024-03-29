@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ホテルの何百万もの客室で使用されているドルマカバ錠は数秒で破られる可能性がある"
+date:   2024-03-30 01:34:15 +0900
+tags: setuirynews 
+---
+
+# ホテルの何百万もの客室で使用されているドルマカバ錠は数秒で破られる可能性がある
+
+Dormakaba の Saflok RFID ホテル ロックの脆弱性により、攻撃者は偽造キーカードを作成し、施設内のあらゆる部屋のロックを解除することができます。 131 か国の 300 万以上の錠が影響を受けており、2024 年 3 月時点で 36% が更新されています。この攻撃では、1 枚のキーカードを読み取り、RFID ツールまたは携帯電話を使用して偽造キーカードを作成し、錠データを再プログラムする必要があります。ロック プログラミング デバイスをリバース エンジニアリングすると、攻撃者がマスター キーを偽装できるようになります。まだ悪用は確認されていませんが、ロックの出入りログを監査すると不審なアクティビティが検出される可能性があります。
+
+# Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds
+
+[https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html](https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html)
+
