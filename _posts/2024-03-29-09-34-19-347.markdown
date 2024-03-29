@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Activision、ゲームプレイヤーをターゲットにしたパスワード窃取マルウェアを調査 - TechCrunch"
+date:   2024-03-29 09:34:19 +0900
+tags: setuirynews 
+---
+
+# Activision、ゲームプレイヤーをターゲットにしたパスワード窃取マルウェアを調査 - TechCrunch
+
+
+
+# Activision investigating password-stealing malware targeting game players - TechCrunch
+
+[https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMy8yOC9hY3RpdmlzaW9uLXNheXMtaXRzLWludmVzdGlnYXRpbmctcGFzc3dvcmQtc3RlYWxpbmctbWFsd2FyZS10YXJnZXRpbmctZ2FtZS1wbGF5ZXJzL9IBeWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMy8yOC9hY3RpdmlzaW9uLXNheXMtaXRzLWludmVzdGlnYXRpbmctcGFzc3dvcmQtc3RlYWxpbmctbWFsd2FyZS10YXJnZXRpbmctZ2FtZS1wbGF5ZXJzL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMy8yOC9hY3RpdmlzaW9uLXNheXMtaXRzLWludmVzdGlnYXRpbmctcGFzc3dvcmQtc3RlYWxpbmctbWFsd2FyZS10YXJnZXRpbmctZ2FtZS1wbGF5ZXJzL9IBeWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMy8yOC9hY3RpdmlzaW9uLXNheXMtaXRzLWludmVzdGlnYXRpbmctcGFzc3dvcmQtc3RlYWxpbmctbWFsd2FyZS10YXJnZXRpbmctZ2FtZS1wbGF5ZXJzL2FtcC8?oc=5)
+

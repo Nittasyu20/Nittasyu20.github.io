@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ray AI フレームワークが安全に導入されていないために数千台のサーバーがハッキングされる - CSO Online"
+date:   2024-03-29 09:34:18 +0900
+tags: setuirynews 
+---
+
+# Ray AI フレームワークが安全に導入されていないために数千台のサーバーがハッキングされる - CSO Online
+
+
+
+# Thousands of servers hacked due to insecurely deployed Ray AI framework - CSO Online
+
+[https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNzb29ubGluZS5jb20vYXJ0aWNsZS8yMDc1NTQwL3Rob3VzYW5kcy1vZi1zZXJ2ZXJzLWhhY2tlZC1kdWUtdG8taW5zZWN1cmVseS1kZXBsb3llZC1yYXktYWktZnJhbWV3b3JrLmh0bWzSAXtodHRwczovL3d3dy5jc29vbmxpbmUuY29tL2FydGljbGUvMjA3NTU0MC90aG91c2FuZHMtb2Ytc2VydmVycy1oYWNrZWQtZHVlLXRvLWluc2VjdXJlbHktZGVwbG95ZWQtcmF5LWFpLWZyYW1ld29yay5odG1sL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNzb29ubGluZS5jb20vYXJ0aWNsZS8yMDc1NTQwL3Rob3VzYW5kcy1vZi1zZXJ2ZXJzLWhhY2tlZC1kdWUtdG8taW5zZWN1cmVseS1kZXBsb3llZC1yYXktYWktZnJhbWV3b3JrLmh0bWzSAXtodHRwczovL3d3dy5jc29vbmxpbmUuY29tL2FydGljbGUvMjA3NTU0MC90aG91c2FuZHMtb2Ytc2VydmVycy1oYWNrZWQtZHVlLXRvLWluc2VjdXJlbHktZGVwbG95ZWQtcmF5LWFpLWZyYW1ld29yay5odG1sL2FtcC8?oc=5)
+
