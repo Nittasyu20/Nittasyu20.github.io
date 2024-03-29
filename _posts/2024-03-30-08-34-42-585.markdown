@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "TheMoon マルウェアの復活: 72 時間で 6,000 台の Asus ルーターがハッキングされる - HackRead"
+date:   2024-03-30 08:34:42 +0900
+tags: setuirynews 
+---
+
+# TheMoon マルウェアの復活: 72 時間で 6,000 台の Asus ルーターがハッキングされる - HackRead
+
+
+
+# TheMoon Malware Returns: 6,000 Asus Routers Hacked in 72 Hours - HackRead
+
+[https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmhhY2tyZWFkLmNvbS90aGVtb29uLW1hbHdhcmUtYXN1cy1yb3V0ZXJzLWhhY2tlZC1pbi03Mi1ob3Vycy_SAQA?oc=5](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmhhY2tyZWFkLmNvbS90aGVtb29uLW1hbHdhcmUtYXN1cy1yb3V0ZXJzLWhhY2tlZC1pbi03Mi1ob3Vycy_SAQA?oc=5)
+

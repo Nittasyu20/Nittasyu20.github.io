@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "悪意のある SSH バックドアが Linux 世界のデータ圧縮ライブラリである xz に侵入"
+date:   2024-03-30 08:34:32 +0900
+tags: setuirynews 
+---
+
+# 悪意のある SSH バックドアが Linux 世界のデータ圧縮ライブラリである xz に侵入
+
+Red Hat は、xz データ圧縮ライブラリ (バージョン 5.6.0 および 5.6.1) にある悪意のあるバックドアについて、CVE-2024-3094 に指定され、重大 (10/10) と評価されていると警告しています。ソース コードの tarball に存在するバックドアは、OpenSSH および systemd を介した不正なリモート アクセスを許可し、Fedora Linux 40 および Rawhide を危険にさらす可能性があります。他の Linux ディストリビューションについては、影響を受けるバージョンを確認し、緩和策を講じることをお勧めします。
+
+# Malicious SSH backdoor sneaks into xz, Linux world's data compression library
+
+[https://go.theregister.com/feed/www.theregister.com/2024/03/29/malicious_backdoor_xz/](https://go.theregister.com/feed/www.theregister.com/2024/03/29/malicious_backdoor_xz/)
+
