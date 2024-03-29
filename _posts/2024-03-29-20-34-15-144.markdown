@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "今週の振り返り: スパイウェアのゼロデイ攻撃、MFA iPhone 爆弾攻撃 - CISO シリーズ"
+date:   2024-03-29 20:34:15 +0900
+tags: setuirynews 
+---
+
+# 今週の振り返り: スパイウェアのゼロデイ攻撃、MFA iPhone 爆弾攻撃 - CISO シリーズ
+
+
+
+# Week in Review: Spyware zero-days, MFA iPhone bomb attacks - CISO Series
+
+[https://news.google.com/rss/articles/CBMivQFodHRwczovL2Npc29zZXJpZXMuY29tL2N5YmVyLXNlY3VyaXR5LWhlYWRsaW5lcy13ZWVrLWluLXJldmlldy1zcHl3YXJlLWZ1ZWxzLXJpc2UtaW4temVyby1kYXktZXhwbG9pdHMtbWZhLWJvbWJpbmctYXR0YWNrcy10YXJnZXQtYXBwbGUtdXNlcnMtZmFjZWJvb2stc25vb3BlZC1vbi1lbmNyeXB0ZWQtc25hcGNoYXQtdHJhZmZpYy_SAQA?oc=5](https://news.google.com/rss/articles/CBMivQFodHRwczovL2Npc29zZXJpZXMuY29tL2N5YmVyLXNlY3VyaXR5LWhlYWRsaW5lcy13ZWVrLWluLXJldmlldy1zcHl3YXJlLWZ1ZWxzLXJpc2UtaW4temVyby1kYXktZXhwbG9pdHMtbWZhLWJvbWJpbmctYXR0YWNrcy10YXJnZXQtYXBwbGUtdXNlcnMtZmFjZWJvb2stc25vb3BlZC1vbi1lbmNyeXB0ZWQtc25hcGNoYXQtdHJhZmZpYy_SAQA?oc=5)
+
