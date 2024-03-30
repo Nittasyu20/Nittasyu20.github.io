@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Red Hat Exec: Linux サプライチェーンのハッキングはすぐに捕らえられた - CRN"
+date:   2024-03-30 23:34:24 +0900
+tags: setuirynews 
+---
+
+# Red Hat Exec: Linux サプライチェーンのハッキングはすぐに捕らえられた - CRN
+
+
+
+# Red Hat Exec: Linux Supply Chain Hack Was Caught Quickly - CRN
+
+[https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9zZWN1cml0eS8yMDI0L3JlZC1oYXQtZXhlYy1saW51eC1zdXBwbHktY2hhaW4taGFjay13YXMtY2F1Z2h0LXF1aWNrbHnSAQA?oc=5](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9zZWN1cml0eS8yMDI0L3JlZC1oYXQtZXhlYy1saW51eC1zdXBwbHktY2hhaW4taGFjay13YXMtY2F1Z2h0LXF1aWNrbHnSAQA?oc=5)
+
