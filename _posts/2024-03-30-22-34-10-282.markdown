@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2024-27198 はどのようにして JetBrains に重大な脆弱性をもたらしましたか? - セキュリティ大通り"
+date:   2024-03-30 22:34:10 +0900
+tags: setuirynews 
+---
+
+# CVE-2024-27198 はどのようにして JetBrains に重大な脆弱性をもたらしましたか? - セキュリティ大通り
+
+
+
+# How did CVE-2024-27198 Lead to Critical Vulnerability in JetBrains? - Security Boulevard
+
+[https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvaG93LWRpZC1jdmUtMjAyNC0yNzE5OC1sZWFkLXRvLWNyaXRpY2FsLXZ1bG5lcmFiaWxpdHktaW4tamV0YnJhaW5zL9IBbWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvaG93LWRpZC1jdmUtMjAyNC0yNzE5OC1sZWFkLXRvLWNyaXRpY2FsLXZ1bG5lcmFiaWxpdHktaW4tamV0YnJhaW5zL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvaG93LWRpZC1jdmUtMjAyNC0yNzE5OC1sZWFkLXRvLWNyaXRpY2FsLXZ1bG5lcmFiaWxpdHktaW4tamV0YnJhaW5zL9IBbWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMvaG93LWRpZC1jdmUtMjAyNC0yNzE5OC1sZWFkLXRvLWNyaXRpY2FsLXZ1bG5lcmFiaWxpdHktaW4tamV0YnJhaW5zL2FtcC8?oc=5)
+
