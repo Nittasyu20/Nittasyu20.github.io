@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーがAtrafデータベースを完全に漏洩、669,000人以上のユーザーに影響を与えると主張 - HackRead"
+date:   2024-03-31 06:34:10 +0900
+tags: setuirynews 
+---
+
+# ハッカーがAtrafデータベースを完全に漏洩、669,000人以上のユーザーに影響を与えると主張 - HackRead
+
+
+
+# Hacker Claims to Leak Full Atraf Database, Affecting Over 669,000 Users - HackRead
+
+[https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmhhY2tyZWFkLmNvbS9oYWNrZXItbGVhay1hdHJhZi1kYXRhYmFzZS1vdmVyLTY2OTAwMC11c2Vycy_SAQA?oc=5](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmhhY2tyZWFkLmNvbS9oYWNrZXItbGVhay1hdHJhZi1kYXRhYmFzZS1vdmVyLTY2OTAwMC11c2Vycy_SAQA?oc=5)
+
