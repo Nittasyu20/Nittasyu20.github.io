@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーが悪意のある広告で macOS ユーザーを標的にし、窃盗マルウェアを拡散"
+date:   2024-03-30 18:34:15 +0900
+tags: setuirynews 
+---
+
+# ハッカーが悪意のある広告で macOS ユーザーを標的にし、窃盗マルウェアを拡散
+
+サイバー犯罪者は、Atomic Stealer ともう 1 つの Rust ベースのマルウェアという 2 つのスティーラー マルウェアを配布する悪意のある広告と偽の Web サイトで macOS ユーザーをターゲットにしています。これらのマルウェアは、システム パスワード、仮想通貨ウォレット情報、保存されている認証情報などの機密データを盗みます。攻撃は暗号通貨業界の個人を標的にすることがよくあります。
+
+# Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware
+
+[https://thehackernews.com/2024/03/hackers-target-macos-users-with.html](https://thehackernews.com/2024/03/hackers-target-macos-users-with.html)
+
