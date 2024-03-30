@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "緊急: XZ Utils ライブラリで秘密のバックドアが見つかり、主要な Linux ディストリビューションに影響"
+date:   2024-03-30 16:34:18 +0900
+tags: setuirynews 
+---
+
+# 緊急: XZ Utils ライブラリで秘密のバックドアが見つかり、主要な Linux ディストリビューションに影響
+
+Red Hat は、XZ Utils の 2 つのバージョン (5.6.0 および 5.6.1) に対する緊急のセキュリティ警告をリリースしました。これらのバージョンには、不正なリモート アクセスを可能にするバックドア コードが含まれています。この問題 (CVE-2024-3094) は、Kali Linux、openSUSE、および Debian ディストリビューションだけでなく、Fedora 41 と Rawhide にも影響します。 CISA は、XZ Utils の妥協のないバージョンにダウングレードすることを推奨しています。
+
+# Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros
+
+[https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html](https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html)
+
