@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AT&T、7,300万人の顧客データがハッカーフォーラムで流出したことを確認 - BleepingComputer"
+date:   2024-03-31 03:34:14 +0900
+tags: setuirynews 
+---
+
+# AT&T、7,300万人の顧客データがハッカーフォーラムで流出したことを確認 - BleepingComputer
+
+
+
+# AT&T confirms data for 73 million customers leaked on hacker forum - BleepingComputer
+
+[https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvYXRhbmR0LWNvbmZpcm1zLWRhdGEtZm9yLTczLW1pbGxpb24tY3VzdG9tZXJzLWxlYWtlZC1vbi1oYWNrZXItZm9ydW0v0gF4aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9hdGFuZHQtY29uZmlybXMtZGF0YS1mb3ItNzMtbWlsbGlvbi1jdXN0b21lcnMtbGVha2VkLW9uLWhhY2tlci1mb3J1bS9hbXAv?oc=5](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvYXRhbmR0LWNvbmZpcm1zLWRhdGEtZm9yLTczLW1pbGxpb24tY3VzdG9tZXJzLWxlYWtlZC1vbi1oYWNrZXItZm9ydW0v0gF4aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9hdGFuZHQtY29uZmlybXMtZGF0YS1mb3ItNzMtbWlsbGlvbi1jdXN0b21lcnMtbGVha2VkLW9uLWhhY2tlci1mb3J1bS9hbXAv?oc=5)
+
