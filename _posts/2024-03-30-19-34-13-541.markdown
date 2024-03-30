@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーが悪意のある広告で macOS ユーザーを標的にし、窃盗マルウェアを拡散 - The Hacker News"
+date:   2024-03-30 19:34:13 +0900
+tags: setuirynews 
+---
+
+# ハッカーが悪意のある広告で macOS ユーザーを標的にし、窃盗マルウェアを拡散 - The Hacker News
+
+
+
+# Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware - The Hacker News
+
+[https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wMy9oYWNrZXJzLXRhcmdldC1tYWNvcy11c2Vycy13aXRoLmh0bWzSAQA?oc=5](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wMy9oYWNrZXJzLXRhcmdldC1tYWNvcy11c2Vycy13aXRoLmh0bWzSAQA?oc=5)
+
