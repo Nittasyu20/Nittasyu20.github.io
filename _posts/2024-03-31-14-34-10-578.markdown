@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AT&T、データ侵害後のサイバーセキュリティインシデントを調査 - 通信部門責任者"
+date:   2024-03-31 14:34:10 +0900
+tags: setuirynews 
+---
+
+# AT&T、データ侵害後のサイバーセキュリティインシデントを調査 - 通信部門責任者
+
+
+
+# AT&T Probes Cyber Security Incident After Data Breach - Telecom Lead
+
+[https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRlbGVjb21sZWFkLmNvbS81Zy9hdHQtcHJvYmVzLWN5YmVyLXNlY3VyaXR5LWluY2lkZW50LWFmdGVyLWRhdGEtYnJlYWNoLTExNTU3NtIBAA?oc=5](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRlbGVjb21sZWFkLmNvbS81Zy9hdHQtcHJvYmVzLWN5YmVyLXNlY3VyaXR5LWluY2lkZW50LWFmdGVyLWRhdGEtYnJlYWNoLTExNTU3NtIBAA?oc=5)
+
