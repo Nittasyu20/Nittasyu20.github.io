@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Google の Rust 開発者の生産性は C++ チームの 2 倍です"
+date:   2024-04-01 03:34:18 +0900
+tags: setuirynews 
+---
+
+# Google の Rust 開発者の生産性は C++ チームの 2 倍です
+
+Go および C++ から Rust へプロジェクトを移行した Google の経験は、大きなメリットを示しています。サービスの構築、保守、更新に必要な労力という点では、Rust は C++ の 2 倍の生産性があることが証明されています。さらに、開発者の間での Rust コードの正確さに対する信頼レベルは非常に高く、85% が他の言語で書かれたコードよりも正しい可能性が高いと信じていると述べています。
+
+# Rust developers at Google are twice as productive as C++ teams
+
+[https://go.theregister.com/feed/www.theregister.com/2024/03/31/rust_google_c/](https://go.theregister.com/feed/www.theregister.com/2024/03/31/rust_google_c/)
+
