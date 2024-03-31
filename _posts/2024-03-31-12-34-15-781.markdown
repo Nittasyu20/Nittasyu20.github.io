@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーにコンピュータを乗っ取られる欠陥、GoogleがChromeのアップデートを促す - Daily Mail"
+date:   2024-03-31 12:34:15 +0900
+tags: setuirynews 
+---
+
+# ハッカーにコンピュータを乗っ取られる欠陥、GoogleがChromeのアップデートを促す - Daily Mail
+
+
+
+# Google urges Chrome update after flaw lets hackers take over computers - Daily Mail
+
+[https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzMjUyNzU1L2dvb2dsZS1jaHJvbWUtYnJvd3Nlci11cGRhdGUtaGFja2VyLWZsYXctY29tcHV0ZXIuaHRtbNIBAA?oc=5](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzMjUyNzU1L2dvb2dsZS1jaHJvbWUtYnJvd3Nlci11cGRhdGUtaGFja2VyLWZsYXctY29tcHV0ZXIuaHRtbNIBAA?oc=5)
+
