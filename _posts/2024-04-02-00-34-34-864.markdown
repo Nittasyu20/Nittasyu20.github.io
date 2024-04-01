@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "クラウドの信頼性は可視性とゼロトラストから始まります - Security Boulevard"
+date:   2024-04-02 00:34:34 +0900
+tags: setuirynews 
+---
+
+# クラウドの信頼性は可視性とゼロトラストから始まります - Security Boulevard
+
+
+
+# Confidence in the Cloud Starts With Visibility and Zero-Trust - Security Boulevard
+
+[https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvY29uZmlkZW5jZS1pbi10aGUtY2xvdWQtc3RhcnRzLXdpdGgtdmlzaWJpbGl0eS1hbmQtemVyby10cnVzdC_SAWhodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzA0L2NvbmZpZGVuY2UtaW4tdGhlLWNsb3VkLXN0YXJ0cy13aXRoLXZpc2liaWxpdHktYW5kLXplcm8tdHJ1c3QvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvY29uZmlkZW5jZS1pbi10aGUtY2xvdWQtc3RhcnRzLXdpdGgtdmlzaWJpbGl0eS1hbmQtemVyby10cnVzdC_SAWhodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDI0LzA0L2NvbmZpZGVuY2UtaW4tdGhlLWNsb3VkLXN0YXJ0cy13aXRoLXZpc2liaWxpdHktYW5kLXplcm8tdHJ1c3QvYW1wLw?oc=5)
+

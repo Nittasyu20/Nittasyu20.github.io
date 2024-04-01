@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "クリーンな NAND を保持し、ハッキングにエミュ MMC を使用した場合、禁止されずに済みますか? - GBAtemp.net"
+date:   2024-04-02 00:34:25 +0900
+tags: setuirynews 
+---
+
+# クリーンな NAND を保持し、ハッキングにエミュ MMC を使用した場合、禁止されずに済みますか? - GBAtemp.net
+
+
+
+# If I keep a clean NAND, but use emuMMC for hacking, will I be safe from bans? - GBAtemp.net
+
+[https://news.google.com/rss/articles/CBMidGh0dHBzOi8vZ2JhdGVtcC5uZXQvdGhyZWFkcy9pZi1pLWtlZXAtYS1jbGVhbi1uYW5kLWJ1dC11c2UtZW11bW1jLWZvci1oYWNraW5nLXdpbGwtaS1iZS1zYWZlLWZyb20tYmFucy41NjIzNjIvcGFnZS0y0gEA?oc=5](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vZ2JhdGVtcC5uZXQvdGhyZWFkcy9pZi1pLWtlZXAtYS1jbGVhbi1uYW5kLWJ1dC11c2UtZW11bW1jLWZvci1oYWNraW5nLXdpbGwtaS1iZS1zYWZlLWZyb20tYmFucy41NjIzNjIvcGFnZS0y0gEA?oc=5)
+
