@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AT&Tは3月中旬の7000万件以上の大量データダンプが本物であることを認めるが、それは何年も前のことだと主張"
+date:   2024-04-01 23:34:21 +0900
+tags: setuirynews 
+---
+
+# AT&Tは3月中旬の7000万件以上の大量データダンプが本物であることを認めるが、それは何年も前のことだと主張
+
+AT&T は、現在と元のユーザーを含む 7,300 万人以上の顧客に影響を与えた大規模なデータ漏洩を確認しました。流出したデータには、名前、住所、電話番号、SSN、アカウント情報などの機密情報が含まれています。データ侵害の原因はまだ不明で、AT&T は現在この事件を調査中です。
+
+# AT&T admits massive 70m+ mid-March data dump is real, but claims it's years old
+
+[https://go.theregister.com/feed/www.theregister.com/2024/04/01/att_admits_massive_70m_midmarch/](https://go.theregister.com/feed/www.theregister.com/2024/04/01/att_admits_massive_70m_midmarch/)
+

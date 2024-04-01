@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "セキュリティ シンク タンク: 軍隊からのランサムウェアの教訓 - Computer Weekly.com"
+date:   2024-04-01 23:34:40 +0900
+tags: setuirynews 
+---
+
+# セキュリティ シンク タンク: 軍隊からのランサムウェアの教訓 - Computer Weekly.com
+
+
+
+# Security Think Tank: Ransomware lessons from the armed forces - ComputerWeekly.com
+
+[https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNvbXB1dGVyd2Vla2x5LmNvbS9vcGluaW9uL1NlY3VyaXR5LVRoaW5rLVRhbmstUmFuc29td2FyZS1sZXNzb25zLWZyb20tdGhlLWFybWVkLWZvcmNlc9IBAA?oc=5](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNvbXB1dGVyd2Vla2x5LmNvbS9vcGluaW9uL1NlY3VyaXR5LVRoaW5rLVRhbmstUmFuc29td2FyZS1sZXNzb25zLWZyb20tdGhlLWFybWVkLWZvcmNlc9IBAA?oc=5)
+

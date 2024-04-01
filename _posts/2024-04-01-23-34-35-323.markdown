@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2024-3094 XZ および libzma に対する標的型バックドア サプライ チェーン攻撃 - Security Boulevard"
+date:   2024-04-01 23:34:35 +0900
+tags: setuirynews 
+---
+
+# CVE-2024-3094 XZ および libzma に対する標的型バックドア サプライ チェーン攻撃 - Security Boulevard
+
+
+
+# CVE-2024-3094 The targeted backdoor supply chain attack against XZ and libzma - Security Boulevard
+
+[https://news.google.com/rss/articles/CBMidGh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvY3ZlLTIwMjQtMzA5NC10aGUtdGFyZ2V0ZWQtYmFja2Rvb3Itc3VwcGx5LWNoYWluLWF0dGFjay1hZ2FpbnN0LXh6LWFuZC1saWJ6bWEv0gF4aHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyNC8wNC9jdmUtMjAyNC0zMDk0LXRoZS10YXJnZXRlZC1iYWNrZG9vci1zdXBwbHktY2hhaW4tYXR0YWNrLWFnYWluc3QteHotYW5kLWxpYnptYS9hbXAv?oc=5](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvY3ZlLTIwMjQtMzA5NC10aGUtdGFyZ2V0ZWQtYmFja2Rvb3Itc3VwcGx5LWNoYWluLWF0dGFjay1hZ2FpbnN0LXh6LWFuZC1saWJ6bWEv0gF4aHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyNC8wNC9jdmUtMjAyNC0zMDk0LXRoZS10YXJnZXRlZC1iYWNrZG9vci1zdXBwbHktY2hhaW4tYXR0YWNrLWFnYWluc3QteHotYW5kLWxpYnptYS9hbXAv?oc=5)
+
