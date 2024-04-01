@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SEIとOpenAI、サイバーセキュリティアプリケーションの大規模言語モデルを評価する方法を推奨 - カーネギーメロン大学"
+date:   2024-04-02 01:34:32 +0900
+tags: setuirynews 
+---
+
+# SEIとOpenAI、サイバーセキュリティアプリケーションの大規模言語モデルを評価する方法を推奨 - カーネギーメロン大学
+
+
+
+# SEI and OpenAI Recommend Ways To Evaluate Large Language Models for Cybersecurity Applications - Carnegie Mellon University
+
+[https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5jbXUuZWR1L25ld3Mvc3Rvcmllcy9hcmNoaXZlcy8yMDI0L2FwcmlsL3NlaS1hbmQtb3BlbmFpLXJlY29tbWVuZC13YXlzLXRvLWV2YWx1YXRlLWxhcmdlLWxhbmd1YWdlLW1vZGVscy1mb3ItY3liZXJzZWN1cml0eS1hcHBsaWNhdGlvbnPSAQA?oc=5](https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5jbXUuZWR1L25ld3Mvc3Rvcmllcy9hcmNoaXZlcy8yMDI0L2FwcmlsL3NlaS1hbmQtb3BlbmFpLXJlY29tbWVuZC13YXlzLXRvLWV2YWx1YXRlLWxhcmdlLWxhbmd1YWdlLW1vZGVscy1mb3ItY3liZXJzZWN1cml0eS1hcHBsaWNhdGlvbnPSAQA?oc=5)
+
