@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CISA が「重要インフラ法におけるサイバーインシデント報告」を提案 - findBIOMETRICS"
+date:   2024-04-02 02:34:17 +0900
+tags: setuirynews 
+---
+
+# CISA が「重要インフラ法におけるサイバーインシデント報告」を提案 - findBIOMETRICS
+
+
+
+# CISA Proposes 'Cyber Incident Reporting for Critical Infrastructure Act' - findBIOMETRICS
+
+[https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZmluZGJpb21ldHJpY3MuY29tL2Npc2EtcHJvcG9zZXMtY3liZXItaW5jaWRlbnQtcmVwb3J0aW5nLWZvci1jcml0aWNhbC1pbmZyYXN0cnVjdHVyZS1hY3Qv0gEA?oc=5](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZmluZGJpb21ldHJpY3MuY29tL2Npc2EtcHJvcG9zZXMtY3liZXItaW5jaWRlbnQtcmVwb3J0aW5nLWZvci1jcml0aWNhbC1pbmZyYXN0cnVjdHVyZS1hY3Qv0gEA?oc=5)
+
