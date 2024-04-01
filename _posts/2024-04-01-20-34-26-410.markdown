@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "生成型 AI の導入にセキュリティ上の懸念が忍び寄る - TechCentral.ie"
+date:   2024-04-01 20:34:26 +0900
+tags: setuirynews 
+---
+
+# 生成型 AI の導入にセキュリティ上の懸念が忍び寄る - TechCentral.ie
+
+
+
+# Security concerns creep into generative AI adoption - TechCentral.ie
+
+[https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRlY2hjZW50cmFsLmllL3NlY3VyaXR5LWNvbmNlcm5zLWNyZWVwLWludG8tZ2VuZXJhdGl2ZS1haS1hZG9wdGlvbi_SAQA?oc=5](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRlY2hjZW50cmFsLmllL3NlY3VyaXR5LWNvbmNlcm5zLWNyZWVwLWludG8tZ2VuZXJhdGl2ZS1haS1hZG9wdGlvbi_SAQA?oc=5)
+

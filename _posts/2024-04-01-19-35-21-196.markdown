@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Imperva Web アプリケーション ファイアウォールの欠陥により、攻撃者は WAF ルールをバイパスできます - GBHackers"
+date:   2024-04-01 19:35:21 +0900
+tags: setuirynews 
+---
+
+# Imperva Web アプリケーション ファイアウォールの欠陥により、攻撃者は WAF ルールをバイパスできます - GBHackers
+
+
+
+# Imperva Web Application Firewall Flaw Let Attackers Bypass WAF Rules - GBHackers
+
+[https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vZ2JoYWNrZXJzLmNvbS9pbXBlcnZhLXdhZi1mbGF3LWJ5cGFzcy1zZWN1cml0eS_SATtodHRwczovL2diaGFja2Vycy5jb20vaW1wZXJ2YS13YWYtZmxhdy1ieXBhc3Mtc2VjdXJpdHkvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vZ2JoYWNrZXJzLmNvbS9pbXBlcnZhLXdhZi1mbGF3LWJ5cGFzcy1zZWN1cml0eS_SATtodHRwczovL2diaGFja2Vycy5jb20vaW1wZXJ2YS13YWYtZmxhdy1ieXBhc3Mtc2VjdXJpdHkvYW1wLw?oc=5)
+

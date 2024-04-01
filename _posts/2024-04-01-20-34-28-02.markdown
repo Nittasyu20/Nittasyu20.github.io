@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AT&T、大規模なデータ漏洩が数百万の顧客に影響を与えていることを認める - Euronews"
+date:   2024-04-01 20:34:28 +0900
+tags: setuirynews 
+---
+
+# AT&T、大規模なデータ漏洩が数百万の顧客に影響を与えていることを認める - Euronews
+
+
+
+# AT&T admits huge data leak affects millions of customers - Euronews
+
+[https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9idXNpbmVzcy8yMDI0LzA0LzAxL2F0dC1hZG1pdHMtaHVnZS1kYXRhLWxlYWstYWZmZWN0cy1taWxsaW9ucy1vZi1jdXN0b21lcnPSAQA?oc=5](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9idXNpbmVzcy8yMDI0LzA0LzAxL2F0dC1hZG1pdHMtaHVnZS1kYXRhLWxlYWstYWZmZWN0cy1taWxsaW9ucy1vZi1jdXN0b21lcnPSAQA?oc=5)
+

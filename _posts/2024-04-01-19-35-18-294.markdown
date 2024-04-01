@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "サイバー セキュリティのヘッドライン: AT&T データ漏洩、Linux バックドア発見、DHS 電話データ ポリシー - CISO シリーズ"
+date:   2024-04-01 19:35:18 +0900
+tags: setuirynews 
+---
+
+# サイバー セキュリティのヘッドライン: AT&T データ漏洩、Linux バックドア発見、DHS 電話データ ポリシー - CISO シリーズ
+
+
+
+# Cyber Security Headlines: AT&T data leak, Linux backdoor discovery, DHS phone data policy - CISO Series
+
+[https://news.google.com/rss/articles/CBMibWh0dHBzOi8vY2lzb3Nlcmllcy5jb20vY3liZXItc2VjdXJpdHktaGVhZGxpbmVzLWF0dC1kYXRhLWxlYWstbGludXgtYmFja2Rvb3ItZGlzY292ZXJ5LWRocy1waG9uZS1kYXRhLXBvbGljeS_SAQA?oc=5](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vY2lzb3Nlcmllcy5jb20vY3liZXItc2VjdXJpdHktaGVhZGxpbmVzLWF0dC1kYXRhLWxlYWstbGludXgtYmFja2Rvb3ItZGlzY292ZXJ5LWRocy1waG9uZS1kYXRhLXBvbGljeS_SAQA?oc=5)
+
