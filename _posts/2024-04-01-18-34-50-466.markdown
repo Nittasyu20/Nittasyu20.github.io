@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "上流の xz/liblzma のバックドアで攻撃者が SSH サーバーをハッキングできるようにする - GBHackers"
+date:   2024-04-01 18:34:50 +0900
+tags: setuirynews 
+---
+
+# 上流の xz/liblzma のバックドアで攻撃者が SSH サーバーをハッキングできるようにする - GBHackers
+
+
+
+# Backdoor in upstream xz/liblzma Let Attackers Hack SSH Servers - GBHackers
+
+[https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9iYWNrZG9vci1pbi11cHN0cmVhbS14ei1saWJsem1hL9IBOmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9iYWNrZG9vci1pbi11cHN0cmVhbS14ei1saWJsem1hL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9iYWNrZG9vci1pbi11cHN0cmVhbS14ei1saWJsem1hL9IBOmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9iYWNrZG9vci1pbi11cHN0cmVhbS14ei1saWJsem1hL2FtcC8?oc=5)
+

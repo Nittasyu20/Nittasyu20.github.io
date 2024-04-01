@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "XZ Utils バックドアの脆弱性 (CVE-2024-3094) アドバイザリー - Security Boulevard"
+date:   2024-04-01 18:34:48 +0900
+tags: setuirynews 
+---
+
+# XZ Utils バックドアの脆弱性 (CVE-2024-3094) アドバイザリー - Security Boulevard
+
+
+
+# XZ Utils Backdoor Vulnerability (CVE-2024-3094) Advisory - Security Boulevard
+
+[https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMveHotdXRpbHMtYmFja2Rvb3ItdnVsbmVyYWJpbGl0eS1jdmUtMjAyNC0zMDk0LWFkdmlzb3J5L9IBYWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMveHotdXRpbHMtYmFja2Rvb3ItdnVsbmVyYWJpbGl0eS1jdmUtMjAyNC0zMDk0LWFkdmlzb3J5L2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMveHotdXRpbHMtYmFja2Rvb3ItdnVsbmVyYWJpbGl0eS1jdmUtMjAyNC0zMDk0LWFkdmlzb3J5L9IBYWh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDMveHotdXRpbHMtYmFja2Rvb3ItdnVsbmVyYWJpbGl0eS1jdmUtMjAyNC0zMDk0LWFkdmlzb3J5L2FtcC8?oc=5)
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Microsoft OneNote ファイルを使用してサイバー攻撃を組織するハッカー - GBHackers"
+date:   2024-04-01 17:35:45 +0900
+tags: setuirynews 
+---
+
+# Microsoft OneNote ファイルを使用してサイバー攻撃を組織するハッカー - GBHackers
+
+
+
+# Hackers Using Microsoft OneNote Files to Orchestrate Cyber Attacks - GBHackers
+
+[https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9taWNyb3NvZnQtb25lbm90ZS1vcmNoZXN0cmF0ZS_SAThodHRwczovL2diaGFja2Vycy5jb20vbWljcm9zb2Z0LW9uZW5vdGUtb3JjaGVzdHJhdGUvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9taWNyb3NvZnQtb25lbm90ZS1vcmNoZXN0cmF0ZS_SAThodHRwczovL2diaGFja2Vycy5jb20vbWljcm9zb2Z0LW9uZW5vdGUtb3JjaGVzdHJhdGUvYW1wLw?oc=5)
+
