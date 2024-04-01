@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ハッカーがGoogle広告の追跡機能を悪用してマルウェアを配信 - サイバーセキュリティニュース"
+date:   2024-04-01 22:34:30 +0900
+tags: setuirynews 
+---
+
+# ハッカーがGoogle広告の追跡機能を悪用してマルウェアを配信 - サイバーセキュリティニュース
+
+
+
+# Hackers Exploit Google Ads Tracking Feature To Deliver Malware - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dvb2dsZS1hZHN0cmFja2luZy1tYWx3YXJlL9IBPWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dvb2dsZS1hZHN0cmFja2luZy1tYWx3YXJlL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dvb2dsZS1hZHN0cmFja2luZy1tYWx3YXJlL9IBPWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL2dvb2dsZS1hZHN0cmFja2luZy1tYWx3YXJlL2FtcC8?oc=5)
+

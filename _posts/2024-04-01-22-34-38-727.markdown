@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Microsoft Copilot For Security が一般提供され、サイバーの戦いに AI を追加 - CRN"
+date:   2024-04-01 22:34:38 +0900
+tags: setuirynews 
+---
+
+# Microsoft Copilot For Security が一般提供され、サイバーの戦いに AI を追加 - CRN
+
+
+
+# Microsoft Copilot For Security Is Generally Available, Adding AI To Cyber Fight - CRN
+
+[https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9jbG91ZC8yMDI0L21pY3Jvc29mdC1jb3BpbG90LWZvci1zZWN1cml0eS1pcy1nZW5lcmFsbHktYXZhaWxhYmxlLWFkZGluZy1haS10by1jeWJlci1maWdodNIBAA?oc=5](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNybi5jb20vbmV3cy9jbG91ZC8yMDI0L21pY3Jvc29mdC1jb3BpbG90LWZvci1zZWN1cml0eS1pcy1nZW5lcmFsbHktYXZhaWxhYmxlLWFkZGluZy1haS10by1jeWJlci1maWdodNIBAA?oc=5)
+

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "可視性の向上による Windows ベースのマルウェアの検出"
+date:   2024-04-01 22:34:20 +0900
+tags: setuirynews 
+---
+
+# 可視性の向上による Windows ベースのマルウェアの検出
+
+セキュリティ ソリューションが利用可能であるにもかかわらず、サイバー脅威は引き続き組織を侵害し、財務、物理的安全、国家安全保障にリスクをもたらします。中小企業は、IT 部門の人員不足とセキュリティ対策が不十分なため、特に脆弱です。 EventSentry は、以下を提供する包括的なツールセットを提供することでこれらの課題に対処します。
+
+* ログの監視と統合
+* セキュリティと監査の検証
+* ソフトウェア、パッチ、拡張機能のインベントリ
+* プロセス、サービス、タスクのステータス追跡
+* 異常な動作の検出
+* Sysmonとの統合
+* Active Directoryの監視
+* ネットワーク、NetFlow、およびパフォーマンスの監視
+
+EventSentry は、複数のメトリックを監視し、検証スクリプトを提供することで、配信、悪用、永続化、伝播、実行を含むライフサイクル全体を通じてマルウェア攻撃を防止、検出、発見するのに役立ちます。複数の監視ツールの必要性が軽減され、さまざまな脅威に対する堅牢な防御が提供されます。
+
+# Detecting Windows-based Malware Through Better Visibility
+
+[https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html](https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html)
+

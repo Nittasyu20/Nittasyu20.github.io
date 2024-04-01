@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Activision プレーヤーがパスワード窃取マルウェアによる攻撃: 調査中 - GBHackers"
+date:   2024-04-01 21:34:34 +0900
+tags: setuirynews 
+---
+
+# Activision プレーヤーがパスワード窃取マルウェアによる攻撃: 調査中 - GBHackers
+
+
+
+# Activision Players Attacked by Password Stealing Malware: Investigation In Progress - GBHackers
+
+[https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9hY3RpdmlzaW9uLXBsYXllcnMtYXR0YWNrZWQtYnktbWFsd2FyZS_SAUFodHRwczovL2diaGFja2Vycy5jb20vYWN0aXZpc2lvbi1wbGF5ZXJzLWF0dGFja2VkLWJ5LW1hbHdhcmUvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9hY3RpdmlzaW9uLXBsYXllcnMtYXR0YWNrZWQtYnktbWFsd2FyZS_SAUFodHRwczovL2diaGFja2Vycy5jb20vYWN0aXZpc2lvbi1wbGF5ZXJzLWF0dGFja2VkLWJ5LW1hbHdhcmUvYW1wLw?oc=5)
+
