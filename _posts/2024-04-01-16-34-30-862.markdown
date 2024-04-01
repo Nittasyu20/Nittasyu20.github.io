@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CISO がモバイル セキュリティ戦略で優先すべき 4 つの実践 - Security Magazine"
+date:   2024-04-01 16:34:30 +0900
+tags: setuirynews 
+---
+
+# CISO がモバイル セキュリティ戦略で優先すべき 4 つの実践 - Security Magazine
+
+
+
+# 4 practices CISOs should prioritize in their mobile security strategy - Security Magazine
+
+[https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnNlY3VyaXR5bWFnYXppbmUuY29tL2FydGljbGVzLzEwMDU0OS00LXByYWN0aWNlcy1jaXNvcy1zaG91bGQtcHJpb3JpdGl6ZS1pbi10aGVpci1tb2JpbGUtc2VjdXJpdHktc3RyYXRlZ3nSAQA?oc=5](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnNlY3VyaXR5bWFnYXppbmUuY29tL2FydGljbGVzLzEwMDU0OS00LXByYWN0aWNlcy1jaXNvcy1zaG91bGQtcHJpb3JpdGl6ZS1pbi10aGVpci1tb2JpbGUtc2VjdXJpdHktc3RyYXRlZ3nSAQA?oc=5)
+

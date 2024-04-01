@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Vultur Android バンキング トロイの木馬がリモート コントロール機能をアップグレードして復活"
+date:   2024-04-01 16:34:19 +0900
+tags: setuirynews 
+---
+
+# Vultur Android バンキング トロイの木馬がリモート コントロール機能をアップグレードして復活
+
+Android バンキング トロイの木馬 Vultur は、リモート デバイスの操作、検出回避の向上、悪意のあるアクティビティを隠蔽するための暗号化などの新機能を備えて進化しました。 Vultur は、Google Play ストアのトロイの木馬化アプリや SMS メッセージを通じて配布され、約 45,000 台の Android デバイスに被害を与えています。 Octo トロイの木馬と同様に、Vultur はサービスとしてのマルウェアとして動作し、感染したデバイスに対するリモート アクセスと制御を提供します。
+
+# Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities
+
+[https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html](https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html)
+
