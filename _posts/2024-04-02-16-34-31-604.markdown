@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Veracode が Longbow Security の買収を発表 - GBHackers"
+date:   2024-04-02 16:34:31 +0900
+tags: setuirynews 
+---
+
+# Veracode が Longbow Security の買収を発表 - GBHackers
+
+
+
+# Veracode Announces Acquisition of Longbow Security - GBHackers
+
+[https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vZ2JoYWNrZXJzLmNvbS92ZXJhY29kZS1hbm5vdW5jZXMtYWNxdWlzaXRpb24v0gE5aHR0cHM6Ly9nYmhhY2tlcnMuY29tL3ZlcmFjb2RlLWFubm91bmNlcy1hY3F1aXNpdGlvbi9hbXAv?oc=5](https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vZ2JoYWNrZXJzLmNvbS92ZXJhY29kZS1hbm5vdW5jZXMtYWNxdWlzaXRpb24v0gE5aHR0cHM6Ly9nYmhhY2tlcnMuY29tL3ZlcmFjb2RlLWFubm91bmNlcy1hY3F1aXNpdGlvbi9hbXAv?oc=5)
+

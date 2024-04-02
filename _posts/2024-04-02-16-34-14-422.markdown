@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "大規模なフィッシングキャンペーンがラテンアメリカを襲う: Venom RAT が複数のセクターを標的に"
+date:   2024-04-02 16:34:14 +0900
+tags: setuirynews 
+---
+
+# 大規模なフィッシングキャンペーンがラテンアメリカを襲う: Venom RAT が複数のセクターを標的に
+
+TA558 は、ホテル、旅行、政府などの分野をターゲットに、ラテンアメリカで広範囲にわたるフィッシング キャンペーンを開始しました。このキャンペーンでは、Quasar RAT の亜種である Venom RAT を使用して、機密データを盗み、システムをリモートで制御します。この攻撃は、金融機関をターゲットとする DarkGate マルウェア ローダーの使用と、マルウェアを配信するマルバタイジング キャンペーンの出現に続きます。
+
+# Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors
+
+[https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html](https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html)
+
