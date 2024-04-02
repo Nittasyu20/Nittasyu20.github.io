@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "xz-utils バックドアが影響する Kali Linux インストール: 感染をチェック - サイバーセキュリティニュース"
+date:   2024-04-02 15:34:13 +0900
+tags: setuirynews 
+---
+
+# xz-utils バックドアが影響する Kali Linux インストール: 感染をチェック - サイバーセキュリティニュース
+
+
+
+# xz-utils Backdoor Affected Kali Linux Installations: Check for Infection - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3h6LXV0aWxzLWJhY2tkb29yLWFmZmVjdHMta2FsaS_SAUFodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS94ei11dGlscy1iYWNrZG9vci1hZmZlY3RzLWthbGkvYW1wLw?oc=5](https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3h6LXV0aWxzLWJhY2tkb29yLWFmZmVjdHMta2FsaS_SAUFodHRwczovL2N5YmVyc2VjdXJpdHluZXdzLmNvbS94ei11dGlscy1iYWNrZG9vci1hZmZlY3RzLWthbGkvYW1wLw?oc=5)
+

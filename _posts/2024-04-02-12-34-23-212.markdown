@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Wiki Web サーバーの構成ミスによる OWASP データ侵害 - サイバーセキュリティニュース"
+date:   2024-04-02 12:34:23 +0900
+tags: setuirynews 
+---
+
+# Wiki Web サーバーの構成ミスによる OWASP データ侵害 - サイバーセキュリティニュース
+
+
+
+# OWASP Data Breach Due to Wiki Web Server Misconfiguration - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL293YXNwLWRhdGEtYnJlYWNoL9IBNGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL293YXNwLWRhdGEtYnJlYWNoL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL293YXNwLWRhdGEtYnJlYWNoL9IBNGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL293YXNwLWRhdGEtYnJlYWNoL2FtcC8?oc=5)
+
