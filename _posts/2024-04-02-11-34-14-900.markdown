@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "シンガポールのマネーロンダリング対策で6行が顧客情報を共有"
+date:   2024-04-02 11:34:14 +0900
+tags: setuirynews 
+---
+
+# シンガポールのマネーロンダリング対策で6行が顧客情報を共有
+
+シンガポール金融管理局（MAS）は、顧客の行動が犯罪行為の可能性を示す特定の指標を引き起こした場合に、大手商業銀行6行が顧客情報を共有できるアプリケーション「COSMIC」を開始した。 COSMIC は、正規の顧客のプライバシーを保護しながら、マネーロンダリングやテロ資金供与を防止することを目指しています。
+
+# Six banks share customer info to help Singapore fight money laundering
+
+[https://go.theregister.com/feed/www.theregister.com/2024/04/02/asia_tech_news_roundup/](https://go.theregister.com/feed/www.theregister.com/2024/04/02/asia_tech_news_roundup/)
+
