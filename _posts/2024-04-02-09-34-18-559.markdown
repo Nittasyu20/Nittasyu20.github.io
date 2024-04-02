@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "米国下院は職員に「あなたには Microsoft Copilot は不要です!」と告げています。"
+date:   2024-04-02 09:34:18 +0900
+tags: setuirynews 
+---
+
+# 米国下院は職員に「あなたには Microsoft Copilot は不要です!」と告げています。
+
+米下院は、下院の機密データが未承認のクラウドサービスに漏洩する可能性があるとの懸念から、職員によるマイクロソフトのチャットボット「Copilot」の使用を禁止した。この決定は、プライバシーとセキュリティのリスクによる ChatGPT の使用に対する以前の制限に沿ったものです。 Microsoft は、これらの懸念に対処することを目的とした、政府固有のバージョンの Copilot を開発しています。
+
+# US House of Reps tells staff: No Microsoft Copilot for you!
+
+[https://go.theregister.com/feed/www.theregister.com/2024/04/01/us_house_copilot_ban/](https://go.theregister.com/feed/www.theregister.com/2024/04/01/us_house_copilot_ban/)
+

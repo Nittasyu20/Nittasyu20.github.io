@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "LogRhythm がクラウドネイティブ SIEM プラットフォーム、LogRhythm Axon の高度な機能を発表 - Security Boulevard"
+date:   2024-04-02 04:34:19 +0900
+tags: setuirynews 
+---
+
+# LogRhythm がクラウドネイティブ SIEM プラットフォーム、LogRhythm Axon の高度な機能を発表 - Security Boulevard
+
+
+
+# LogRhythm Unveils Advanced Capabilities for Cloud-Native SIEM Platform, LogRhythm Axon - Security Boulevard
+
+[https://news.google.com/rss/articles/CBMifGh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvbG9ncmh5dGhtLXVudmVpbHMtYWR2YW5jZWQtY2FwYWJpbGl0aWVzLWZvci1jbG91ZC1uYXRpdmUtc2llbS1wbGF0Zm9ybS1sb2dyaHl0aG0tYXhvbi_SAYABaHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyNC8wNC9sb2dyaHl0aG0tdW52ZWlscy1hZHZhbmNlZC1jYXBhYmlsaXRpZXMtZm9yLWNsb3VkLW5hdGl2ZS1zaWVtLXBsYXRmb3JtLWxvZ3JoeXRobS1heG9uL2FtcC8?oc=5](https://news.google.com/rss/articles/CBMifGh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDQvbG9ncmh5dGhtLXVudmVpbHMtYWR2YW5jZWQtY2FwYWJpbGl0aWVzLWZvci1jbG91ZC1uYXRpdmUtc2llbS1wbGF0Zm9ybS1sb2dyaHl0aG0tYXhvbi_SAYABaHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyNC8wNC9sb2dyaHl0aG0tdW52ZWlscy1hZHZhbmNlZC1jYXBhYmlsaXRpZXMtZm9yLWNsb3VkLW5hdGl2ZS1zaWVtLXBsYXRmb3JtLWxvZ3JoeXRobS1heG9uL2FtcC8?oc=5)
+

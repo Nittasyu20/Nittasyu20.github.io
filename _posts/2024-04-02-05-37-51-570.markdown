@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Log4J の脆弱性の説明: その正体と修正方法 - 組み込み"
+date:   2024-04-02 05:37:51 +0900
+tags: setuirynews 
+---
+
+# Log4J の脆弱性の説明: その正体と修正方法 - 組み込み
+
+
+
+# Log4J Vulnerability Explained: What It Is and How to Fix It - Built In
+
+[https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWNsZXMvbG9nNGotdnVsZXJhYmlsaXR5LWV4cGxhaW5lZNIBAA?oc=5](https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vYnVpbHRpbi5jb20vYXJ0aWNsZXMvbG9nNGotdnVsZXJhYmlsaXR5LWV4cGxhaW5lZNIBAA?oc=5)
+

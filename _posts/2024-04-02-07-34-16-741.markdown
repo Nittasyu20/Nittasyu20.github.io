@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "悪意のある xz バックドアがオープンソースの脆弱性を明らかにする"
+date:   2024-04-02 07:34:16 +0900
+tags: setuirynews 
+---
+
+# 悪意のある xz バックドアがオープンソースの脆弱性を明らかにする
+
+広く使用されている xz 圧縮ライブラリで発見されたバックドアは、「Jia Tan」からの悪意のあるコミットによって導入され、重大なセキュリティ上の脅威となる可能性がありました。ただし、早期に検出され、影響を受けたのは少数の Linux ディストリビューションのみでした。専門家らは、バックドアの複雑さと「Jia Tan」による長期にわたる信頼構築は、おそらく国家支援による洗練された敵を示唆していると推測している。重要なソフトウェアインフラストラクチャを維持する無給のボランティアへの依存について懸念が生じています。業界観察者は、このような攻撃は今後も続くと予測しており、オープンソース コードを保護するには多額の投資が必要です。
+
+# Malicious xz backdoor reveals fragility of open source
+
+[https://go.theregister.com/feed/www.theregister.com/2024/04/01/xz_backdoor_open_source/](https://go.theregister.com/feed/www.theregister.com/2024/04/01/xz_backdoor_open_source/)
+

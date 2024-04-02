@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "XZ が複雑なサプライチェーン攻撃に埋め込まれたバックドアを利用 - Dark Reading"
+date:   2024-04-02 10:34:14 +0900
+tags: setuirynews 
+---
+
+# XZ が複雑なサプライチェーン攻撃に埋め込まれたバックドアを利用 - Dark Reading
+
+
+
+# XZ Utils Backdoor Implanted in Intricate Supply Chain Attack - Dark Reading
+
+[https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9jeWJlci1yaXNrL3h6LXV0aWxzLWJhY2tkb29yLWltcGxhbnRlZC1pbi1pbnRyaWNhdGUtbXVsdGkteWVhci1zdXBwbHktY2hhaW4tYXR0YWNr0gEA?oc=5](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9jeWJlci1yaXNrL3h6LXV0aWxzLWJhY2tkb29yLWltcGxhbnRlZC1pbi1pbnRyaWNhdGUtbXVsdGkteWVhci1zdXBwbHktY2hhaW4tYXR0YWNr0gEA?oc=5)
+
