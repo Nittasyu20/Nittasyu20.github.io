@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Google、「シークレットモード」で数十億件の閲覧記録を削除へ プライバシー訴訟和解"
+date:   2024-04-02 17:34:23 +0900
+tags: setuirynews 
+---
+
+# Google、「シークレットモード」で数十億件の閲覧記録を削除へ プライバシー訴訟和解
+
+Googleは、ユーザーのプライバシーについて誤解を招いたとして、数十億人のユーザーのプライベートブラウジングデータをChromeブラウザから削除することで訴訟を解決することに同意した。この和解には、シークレット モードでのユーザーのプライバシーをさらに保護し、サードパーティの Cookie をブロックするための措置も含まれています。
+
+# Google to Delete Billions of Browsing Records in 'Incognito Mode' Privacy Lawsuit Settlement
+
+[https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html](https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html)
+

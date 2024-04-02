@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "xz-utils バックドアが Kali Linux インストールに影響 – 感染を確認する方法 – GBHackers"
+date:   2024-04-02 17:34:36 +0900
+tags: setuirynews 
+---
+
+# xz-utils バックドアが Kali Linux インストールに影響 – 感染を確認する方法 – GBHackers
+
+
+
+# xz-utils Backdoor Affects Kali Linux Installations – How to Check for Infection - GBHackers
+
+[https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS94ei11dGlscy1hZmZlY3RzLWthbGktbGludXgv0gE2aHR0cHM6Ly9nYmhhY2tlcnMuY29tL3h6LXV0aWxzLWFmZmVjdHMta2FsaS1saW51eC9hbXAv?oc=5](https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZ2JoYWNrZXJzLmNvbS94ei11dGlscy1hZmZlY3RzLWthbGktbGludXgv0gE2aHR0cHM6Ly9nYmhhY2tlcnMuY29tL3h6LXV0aWxzLWFmZmVjdHMta2FsaS1saW51eC9hbXAv?oc=5)
+

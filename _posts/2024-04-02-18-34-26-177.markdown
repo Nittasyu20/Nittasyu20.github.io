@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "WordPress セキュリティ : XSS が最も悪用された脆弱性として残る - Cyber​​securityNews"
+date:   2024-04-02 18:34:26 +0900
+tags: setuirynews 
+---
+
+# WordPress セキュリティ : XSS が最も悪用された脆弱性として残る - Cyber​​securityNews
+
+
+
+# WordPress Security : XSS Remains as the Most Vulnerability Exploited - CybersecurityNews
+
+[https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3hzcy1yZW1haW5zLWFzLXRoZS1tb3N0LXZ1bG5lcmFiaWxpdHkv0gEA?oc=5](https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3hzcy1yZW1haW5zLWFzLXRoZS1tb3N0LXZ1bG5lcmFiaWxpdHkv0gEA?oc=5)
+

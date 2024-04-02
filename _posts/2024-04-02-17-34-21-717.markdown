@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Apple の GoFetch シリコン セキュリティの失敗はスピードへの執着が原因だった"
+date:   2024-04-02 17:34:21 +0900
+tags: setuirynews 
+---
+
+# Apple の GoFetch シリコン セキュリティの失敗はスピードへの執着が原因だった
+
+Apple の GoFetch プロセッサの欠陥は、チップ設計における速度と機密性の間の根本的な矛盾を浮き彫りにしています。この欠陥により、Apple のセキュリティに対する評判にもかかわらず、攻撃者はキャッシュ アクセスのタイミングを計って機密データを抽出できます。 Intel プロセッサにも同様の脆弱性が存在し、最新のプロセッサ設計の潜在的なリスクに関する懸念が生じています。アインシュタインの近接の法則や、情報漏洩を防ぐための定時コーディングの必要性などの要因は、業界のスピードへの執着と衝突します。チップメーカーが設計の詳細を秘密にしているため、欠陥の早期発見が妨げられ、より安全で効率的なコードの開発が制限されます。オープン性とコラボレーションはセキュリティとパフォーマンスの両方を向上させる可能性がありますが、一般的な業界文化がこのアプローチに障壁となっています。
+
+# Apple's GoFetch silicon security fail was down to an obsession with speed
+
+[https://go.theregister.com/feed/www.theregister.com/2024/04/02/apple_gofetch_opinion/](https://go.theregister.com/feed/www.theregister.com/2024/04/02/apple_gofetch_opinion/)
+
